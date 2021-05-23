@@ -52,7 +52,7 @@ struct ContentView: View {
                     }
                     
                 }) {
-                    Image("dealbutton")
+                    Image("Dealbutton")
                 }
                 
                 
